@@ -63,9 +63,9 @@ while (1) {
          selection=0;
       }
       else{
-         rebound();
+         //rebound();
          selection=0;
-         //bloob();
+         bloob();
       }
    }
    output_a(results);
